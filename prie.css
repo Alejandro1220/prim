@@ -1,0 +1,13 @@
+body{
+	background-color: #C2F8F7;
+}
+
+.pr{
+	position: absolute;
+	width: 320px;
+	height: 400px;
+	left: 100px;
+	top: 80px;
+	font-size: 90px;
+	background-color: #66E5EA;
+}
